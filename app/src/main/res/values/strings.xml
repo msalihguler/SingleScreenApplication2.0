@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Single Screen Application 2.0</string>
+      <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+    <string name="apple_pie_store_name">Best Apple Pies</string>
+    <string name="telephone_number">tel:+490123456789</string>
+    <string name="about_us">About Us</string>
+    <string name="place_information_text">Best Apple Pies is a place that, you can find yourselves your grandmother\'s delicious pies in a small lovely place.
+        All of our products raised in our garden, our flour comes from village windmills. So everything you taste is pure natural. </string>
+    <string name="information">Information</string>
+    <string name="address">Spandauer Damm 20-24, 14059 Berlin</string>
+    <string name="telephone">+490123456789</string>
+    <string name="openhours">11:00 AM - 18:00 PM</string>
+    <string name="pie_types_title">You may find...</string>
+    <string name="pie_types">- Apple Pie\n\n- Chocolate Pie\n\n- Custard and Cream Pies\n\n- Fruit Pies\n\nand more in our restaurant. Looking forward to see you soon!</string>
+</resources>
