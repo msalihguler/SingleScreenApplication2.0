@@ -6,4 +6,8 @@
     <dimen name="card_padding_top">24dp</dimen>
     <dimen name="expanded_title_start">48dp</dimen>
     <dimen name="expanded_title_end">64dp</dimen>
+    <dimen name="card_left_margin">16dp</dimen>
+    <dimen name="card_right_margin">16dp</dimen>
+    <dimen name="card_top_margin">24dp</dimen>
+    <dimen name="card_bottom_margin">24dp</dimen>
 </resources>
